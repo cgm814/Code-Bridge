@@ -1,3 +1,6 @@
+Based on the detailed specifications provided in the document, here is an enhanced and comprehensive `README.md` file for the "Code Bridge" project, including a system architecture diagram:
+
+---
 
 # Code Bridge
 
@@ -29,6 +32,7 @@ Detailed information about this project can be found on the [Code Bridge website
 - **Service Discovery**: Nacos 2.1
 - **Frontend**: Vue 2, ElementUI
 
+
 ### System Architecture
 
 The system employs a microservices architecture to ensure scalability and maintainability. Key components include:
@@ -37,6 +41,10 @@ The system employs a microservices architecture to ensure scalability and mainta
 - **API Gateway**: Spring Cloud Gateway
 - **Database**: MySQL for persistent storage, Redis for caching
 - **Frontend**: Vue.js with ElementUI for a responsive user interface
+
+### Architecture Diagram
+
+![System Architecture Diagram](architecture.png)
 
 ### Detailed Design and User Subsystems
 
