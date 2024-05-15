@@ -1,6 +1,3 @@
-Based on the detailed specifications provided in the document, here is an enhanced and comprehensive `README.md` file for the "Code Bridge" project, including a system architecture diagram:
-
----
 
 # Code Bridge
 
@@ -65,7 +62,7 @@ The system employs a microservices architecture to ensure scalability and mainta
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/code-bridge.git
+   git clone https://github.com/webbershaw/Code-Bridge.git
    cd code-bridge
    ```
 
